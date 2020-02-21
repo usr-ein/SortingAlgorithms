@@ -38,6 +38,7 @@ def main():
         plt.xlabel("Array size")
         plt.ylabel("time in ms")
         plt.savefig(os.path.join(plot_folder, f"benchmark_{len(df)-j}_funcs.pdf"))
+        plt.savefig(os.path.join(plot_folder, f"benchmark_{len(df)-j}_funcs.png"))
         plt.close()
 
 if __name__ == '__main__':

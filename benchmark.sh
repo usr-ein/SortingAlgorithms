@@ -61,7 +61,7 @@ if [[ ! $(uname -s) == Darwin* ]]; then
 fi
 
 function open_plots(){
-    for plot in ../$PLOT_FOLDER/*; do
+    for plot in ../$PLOT_FOLDER/*.pdf; do
         open $plot
     done
 }
