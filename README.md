@@ -82,8 +82,8 @@ Algorithms in speed order asymptotically (tested on random array data, c.f. benc
 
 ## The three major competitors 🏆
 
-<img src="plots/benchmark_3_funcs.png?raw=true" alt="Major competitors" width="700"/>
+<img src="plots/benchmark_3_funcs.png?raw=true" alt="Major competitors" width="900"/>
 
 # The other attempt… 🏳️
 
-<img src="plots/benchmark_6_funcs.png?raw=true" alt="Other attempts" width="700"/>
+<img src="plots/benchmark_6_funcs.png?raw=true" alt="Other attempts" width="900"/>
