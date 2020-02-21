@@ -1,5 +1,5 @@
 # Sorting Algorithms
---
+
 This is a list of easy C++ basic sorting algorithms as well as a way to benchmark them one to another.
 Feel free to reuse this bits of code in any future project !
 
@@ -81,16 +81,9 @@ Algorithms in speed order asymptotically (tested on random array data, c.f. benc
 </table>
 
 ## The three major competitors 🏆
-<object data="plots/benchmark_3_funcs.pdf" type="application/pdf" width="700px" height="400px">
-    <embed src="plots/benchmark_3_funcs.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="plots/benchmark_3_funcs.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
+<img src="plots/benchmark_3_funcs.png?raw=true" alt="Major competitors" width="500"/>
 
 # The other attempt… 🏳️
 
-<object data="plots/benchmark_6_funcs.pdf" type="application/pdf" width="700px" height="400px">
-    <embed src="plots/benchmark_6_funcs.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="plots/benchmark_6_funcs.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<img src="plots/benchmark_6_funcs.png?raw=true" alt="Other attempts" width="500"/>
